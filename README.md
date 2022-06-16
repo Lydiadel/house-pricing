@@ -167,7 +167,7 @@ Display a visualization of the increase/decrease of prices according to the squa
 > Figure 1. Dashboard's Storyboard
 
 ### Dashboard
-The dashboard was elaborated in Tableau, applying the filters mentioned before. Contains bubble plot, appearing each bubble by size according to the sqm of the house and different color depending the condition of the house. A sale price vs sqm, all of this changing with the plot at the same time. 
+The dashboard show the filters mentioned before. The user plays with the filter and by clicking on calculate price it displays, it uses the formula done with the machine learning model and displays the final price. In the navigation part is a exploratory analysis that contains a bubble plot, appearing each bubble by size according to the sqm of the house and different color depending the condition of the house, this was done for a deep analysis on how it was affected the price of houses with the model already implemented. Also there are a section for articles that show more information about house marketing.
 
-To access the dashboard link click [here](https://public.tableau.com/views/HousePricing_16551057154970/HousePricingPredictor?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link).
+To access the dashboard link click [here](https://yempi.github.io/house-pricing/)
 
