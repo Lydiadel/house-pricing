@@ -4,7 +4,6 @@
 
 - [**Data Source**](#data-source)
   - [Questions to answer with the data](#questions-to-answer-with-the-data)
-  - [Communication Protocol](#communication-protocol)
 
 - [**Database**](#database)
   - [Description of the Data](#description-of-the-data)
